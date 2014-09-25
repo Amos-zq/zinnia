@@ -1,3 +1,9 @@
+configure
+Makefile
+Makefile.in
+config.*
+*.m4
+
 # Object files
 *.o
 *.ko
